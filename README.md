@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
+Technical Support Engineer Candidate | Bangalore, India
+ 
+Currently completing intensive 10-day hands-on training targeting Microsoft CE&S, SAP, and Citrix TSE roles.
 
-<!--
-**greeshma-connects/greeshma-connects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills in Training  
+ - Microsoft Azure IaaS — Virtual Machines, Storage, Azure Portal
+ - Windows & Linux OS — troubleshooting, Active Directory, RDP/SSH
+ - Networking — OSI model, TCP/IP, DNS, VPN, NAT, load balancing
+ - PowerShell & CLI — Get-Process, Get-Service, Test-Connection
+ - SQL — SELECT, WHERE, JOIN, GROUP BY
+ - REST APIs — Postman, JSON, HTTP methods, status codes
+ - Troubleshooting Methodology — Gather, Reproduce, Isolate, Resolve, Verify
 
-Here are some ideas to get you started:
+## Target Roles
+ Technical Support Engineer — Microsoft, SAP, Citrix, Deloitte, Accenture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+greeshma.connects@gmail.com
